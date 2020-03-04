@@ -1,2 +1,2 @@
 pillow==7.0.0
-nuitka==6.1.70
+nuitka==0.6.7
