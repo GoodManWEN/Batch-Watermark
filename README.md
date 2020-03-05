@@ -1,2 +1,2 @@
 # Batch-Watermark
-Repo for testing github actions auto publishing. Append watermarks for multiple pics. 
+Repo for testing github actions auto publishment. Append watermarks for multiple pics. 
